@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/gameScene/bing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{31,429},{151,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{151,44}</string>
+			</dict>
+			<key>image/gameScene/bing_tubiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{98,275},{38,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,38}</string>
+			</dict>
+			<key>image/gameScene/boshujindutiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,429},{261,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{261,28}</string>
+			</dict>
+			<key>image/gameScene/boshujindutiaodi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,692},{261,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{261,28}</string>
+			</dict>
+			<key>image/gameScene/dijibo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{31,735},{134,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{134,36}</string>
+			</dict>
+			<key>image/gameScene/jiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{31,582},{151,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{151,44}</string>
+			</dict>
+			<key>image/gameScene/jiang_tubiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{98,315},{38,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,38}</string>
+			</dict>
+			<key>image/gameScene/jiasu1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{31,902},{119,29}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,29}</string>
+			</dict>
+			<key>image/gameScene/jiasu2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{31,871},{123,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,29}</string>
+			</dict>
+			<key>image/gameScene/jiasuanniu_dj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,233},{95,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,114}</string>
+			</dict>
+			<key>image/gameScene/jiasuanniu_zc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{111,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,114}</string>
+			</dict>
+			<key>image/gameScene/quxiaoanniu_dj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{77,429},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,48}</string>
+			</dict>
+			<key>image/gameScene/quxiaoanniu_zc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{69,735},{47,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,48}</string>
+			</dict>
+			<key>image/gameScene/tao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,955},{152,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{152,44}</string>
+			</dict>
+			<key>image/gameScene/yingdianniu_dj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,331},{95,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,114}</string>
+			</dict>
+			<key>image/gameScene/yingdianniu_zc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,117},{111,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,114}</string>
+			</dict>
+			<key>image/gameScene/zantinganniu_dj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{98,233},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,48}</string>
+			</dict>
+			<key>image/gameScene/zantinganniu_zc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{69,785},{47,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,48}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>game_scene.png</string>
+			<key>realTextureFileName</key>
+			<string>game_scene.png</string>
+			<key>size</key>
+			<string>{155,1108}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>155</integer>
+			<key>height</key>
+			<integer>1108</integer>
+		</dict>
+	</dict>
+</plist>

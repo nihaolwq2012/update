@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>pList/rankNum/12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,26},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,52},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,78},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,104},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,130},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,156},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,182},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/20.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,208},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+			<key>pList/rankNum/21.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,234},{18,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,26}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>rankNum.png</string>
+			<key>realTextureFileName</key>
+			<string>rankNum.png</string>
+			<key>size</key>
+			<string>{18,260}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>18</integer>
+			<key>height</key>
+			<integer>260</integer>
+		</dict>
+	</dict>
+</plist>

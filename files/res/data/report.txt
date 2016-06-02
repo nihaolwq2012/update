@@ -1,0 +1,2709 @@
+{
+	"errCode": 1,
+	"isWin": true,
+	"rewardMessage": [{
+		"addRes": {
+			"feats": 100
+		},
+		"rewardType": 6
+	}],
+	"initReport": {
+		"message": [{
+			"crood_x": "576.0",
+			"heroCfgNo": 42284,
+			"heroStar": 1,
+			"maxBlood": 17630,
+			"heroLevel": 19,
+			"crood_y": "144.0",
+			"currBlood": 17630,
+			"heroId": 87518
+		},
+		{
+			"crood_x": "320.0",
+			"heroCfgNo": 42304,
+			"heroStar": 1,
+			"maxBlood": 12536,
+			"heroLevel": 19,
+			"crood_y": "234.0",
+			"currBlood": 12536,
+			"heroId": 1
+		}],
+		"time": "0.0"
+	},
+	"report": [{
+		"message": [{
+			"crood_x": "572.92",
+			"crood_y": "144.87",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.1"
+	},
+	{
+		"message": [{
+			"crood_x": "324.93",
+			"crood_y": "230.76",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.1"
+	},
+	{
+		"message": [{
+			"crood_x": "569.9",
+			"crood_y": "145.92",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.2"
+	},
+	{
+		"message": [{
+			"crood_x": "330.51",
+			"crood_y": "228.83",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.2"
+	},
+	{
+		"message": [{
+			"crood_x": "566.88",
+			"crood_y": "146.97",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.3"
+	},
+	{
+		"message": [{
+			"crood_x": "336.09",
+			"crood_y": "226.9",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.3"
+	},
+	{
+		"message": [{
+			"crood_x": "563.86",
+			"crood_y": "148.02",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.4"
+	},
+	{
+		"message": [{
+			"crood_x": "341.67",
+			"crood_y": "224.97",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.4"
+	},
+	{
+		"message": [{
+			"crood_x": "560.84",
+			"crood_y": "149.07",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.5"
+	},
+	{
+		"message": [{
+			"crood_x": "347.25",
+			"crood_y": "223.04",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.5"
+	},
+	{
+		"message": [{
+			"crood_x": "557.82",
+			"crood_y": "150.12",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.6"
+	},
+	{
+		"message": [{
+			"crood_x": "352.83",
+			"crood_y": "221.11",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.6"
+	},
+	{
+		"message": [{
+			"crood_x": "554.8",
+			"crood_y": "151.17",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.7"
+	},
+	{
+		"message": [{
+			"crood_x": "358.41",
+			"crood_y": "219.18",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.7"
+	},
+	{
+		"message": [{
+			"crood_x": "551.78",
+			"crood_y": "152.22",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.8"
+	},
+	{
+		"message": [{
+			"crood_x": "363.99",
+			"crood_y": "217.25",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.8"
+	},
+	{
+		"message": [{
+			"crood_x": "548.76",
+			"crood_y": "153.27",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "0.9"
+	},
+	{
+		"message": [{
+			"crood_x": "369.57",
+			"crood_y": "215.32",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "0.9"
+	},
+	{
+		"message": [{
+			"crood_x": "545.74",
+			"crood_y": "154.32",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.0"
+	},
+	{
+		"message": [{
+			"crood_x": "375.15",
+			"crood_y": "213.39",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "1.0"
+	},
+	{
+		"message": [{
+			"crood_x": "542.72",
+			"crood_y": "155.37",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.1"
+	},
+	{
+		"message": [{
+			"crood_x": "380.73",
+			"crood_y": "211.46",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "1.1"
+	},
+	{
+		"message": [{
+			"crood_x": "539.7",
+			"crood_y": "156.42",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.2"
+	},
+	{
+		"message": [{
+			"crood_x": "386.31",
+			"crood_y": "209.53",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "1.2"
+	},
+	{
+		"message": [{
+			"crood_x": "536.68",
+			"crood_y": "157.47",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.3"
+	},
+	{
+		"message": [{
+			"crood_x": "391.89",
+			"crood_y": "207.6",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "1.3"
+	},
+	{
+		"message": [{
+			"crood_x": "533.66",
+			"crood_y": "158.52",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.4"
+	},
+	{
+		"message": [{
+			"crood_x": "397.47",
+			"crood_y": "205.67",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "1.4"
+	},
+	{
+		"message": [{
+			"crood_x": "530.64",
+			"crood_y": "159.57",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.5"
+	},
+	{
+		"message": [{
+			"crood_x": "403.05",
+			"crood_y": "203.74",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "1.5"
+	},
+	{
+		"message": [{
+			"crood_x": "527.62",
+			"crood_y": "160.62",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.6"
+	},
+	{
+		"message": [{
+			"crood_x": "408.63",
+			"crood_y": "201.81",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "1.6"
+	},
+	{
+		"message": [{
+			"crood_x": "524.6",
+			"crood_y": "161.67",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.7"
+	},
+	{
+		"message": [{
+			"crood_x": "414.21",
+			"crood_y": "199.88",
+			"heroId": 1,
+			"commond": "move"
+		}],
+		"time": "1.7"
+	},
+	{
+		"message": [{
+			"crood_x": "521.58",
+			"crood_y": "162.72",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 17461,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "1.8"
+	},
+	{
+		"message": [{
+			"crood_x": "518.56",
+			"crood_y": "163.77",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "1.9"
+	},
+	{
+		"message": [{
+			"crood_x": "515.54",
+			"crood_y": "164.82",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "2.0"
+	},
+	{
+		"message": [{
+			"crood_x": "512.52",
+			"crood_y": "165.87",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "2.1"
+	},
+	{
+		"message": [{
+			"crood_x": "509.5",
+			"crood_y": "166.92",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "2.2"
+	},
+	{
+		"message": [{
+			"crood_x": "506.48",
+			"crood_y": "167.97",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "2.3"
+	},
+	{
+		"message": [{
+			"crood_x": "503.46",
+			"crood_y": "169.02",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "2.4"
+	},
+	{
+		"message": [{
+			"crood_x": "500.44",
+			"crood_y": "170.07",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "2.5"
+	},
+	{
+		"message": [{
+			"crood_x": "497.42",
+			"crood_y": "171.12",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "2.6"
+	},
+	{
+		"message": [{
+			"crood_x": "494.4",
+			"crood_y": "172.17",
+			"heroId": 87518,
+			"commond": "move"
+		}],
+		"time": "2.7"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 12383,
+					"heroId": 1
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "2.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 17292,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "3.1"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 12230,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "3.9"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 17123,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "4.4"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 12105,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "5.0"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "add_buff"
+		}],
+		"time": "5.0"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 11952,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "5.0"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 16954,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "5.7"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 11827,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "6.0"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 11521,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "6.1"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 11396,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "7.0"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 16785,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "7.0"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 11090,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "7.2"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 10965,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "8.0"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1016,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 303,
+					"currBlood": 10662,
+					"heroId": 1
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "8.3"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1053,
+				"attackMessage": [{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "8.3"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 10537,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "9.0"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 10384,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "9.4"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 16616,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "9.6"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "remove_buff"
+		}],
+		"time": "10.0"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 10231,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "10.5"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 16447,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "10.9"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 10106,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "11.6"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "add_buff"
+		}],
+		"time": "11.6"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 9953,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "11.6"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 16278,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "12.2"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 9828,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "12.6"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 9675,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "12.7"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 16109,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "13.5"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 9550,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "13.6"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1016,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 303,
+					"currBlood": 9247,
+					"heroId": 1
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "13.8"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 9122,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "14.6"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1053,
+				"attackMessage": [{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "14.8"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 8969,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "14.9"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 8844,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "15.6"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 8538,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "16.0"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 15940,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "16.1"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "remove_buff"
+		}],
+		"time": "16.6"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 8385,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "17.1"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 15771,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "17.4"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 8260,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "18.2"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "add_buff"
+		}],
+		"time": "18.2"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 8107,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "18.2"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 15602,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "18.7"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 7982,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "19.2"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1016,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 303,
+					"currBlood": 7679,
+					"heroId": 1
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "19.3"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 15433,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "20.0"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 7554,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "20.2"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 7401,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "20.4"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 7276,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "21.2"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1053,
+				"attackMessage": [{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "21.3"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 7123,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "21.5"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 6998,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "22.2"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 6845,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "22.6"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 15264,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "22.6"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "remove_buff"
+		}],
+		"time": "23.2"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 6539,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "23.7"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 15095,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "23.9"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 6414,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "24.8"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "add_buff"
+		}],
+		"time": "24.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1016,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 303,
+					"currBlood": 6111,
+					"heroId": 1
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "24.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 14926,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "25.2"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 5986,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "25.8"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 5833,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "25.9"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 14757,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "26.5"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 5708,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "26.8"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 5402,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "27.0"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 5277,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "27.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1053,
+				"attackMessage": [{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "27.8"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 5124,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "28.1"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 4999,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "28.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 14588,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "29.1"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 4693,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "29.2"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "remove_buff"
+		}],
+		"time": "29.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1016,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 228,
+					"currBlood": 4465,
+					"heroId": 1
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "30.3"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 14419,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "30.4"
+	},
+	{
+		"message": [{
+			"buffId": 13,
+			"heroId": 1,
+			"commond": "add_buff"
+		}],
+		"time": "31.4"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 4312,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "31.4"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 14250,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "31.7"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 4006,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "32.5"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 14081,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "33.0"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 3700,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "33.6"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1053,
+				"attackMessage": [{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "34.3"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 3394,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "34.7"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 13912,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "35.6"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1016,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 228,
+					"currBlood": 3166,
+					"heroId": 1
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "35.8"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 2860,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "36.9"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 13743,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "36.9"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 2707,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "38.0"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 13574,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "38.2"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 2554,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "39.1"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 13405,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "39.5"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 2401,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "40.2"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1053,
+				"attackMessage": [{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "40.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1016,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 228,
+					"currBlood": 2173,
+					"heroId": 1
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "41.3"
+	},
+	{
+		"message": [{
+			"buffId": 13,
+			"heroId": 1,
+			"commond": "remove_buff"
+		}],
+		"time": "41.4"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 13236,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "42.1"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 2020,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "42.4"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 13067,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "43.4"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 1895,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "43.5"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "add_buff"
+		}],
+		"time": "43.5"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 1742,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "43.5"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 1617,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "44.5"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": true,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 306,
+					"currBlood": 1311,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "44.6"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 12898,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "44.7"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 1186,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "45.5"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 1033,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "45.7"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 12729,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "46.0"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 908,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "46.5"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1016,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 303,
+					"currBlood": 605,
+					"heroId": 1
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			},
+			"heroId": 87518,
+			"commond": "attack"
+		}],
+		"time": "46.8"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 1053,
+				"attackMessage": [{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "47.3"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 480,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "47.5"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 327,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "47.9"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "remove_buff"
+		}],
+		"time": "48.5"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 12560,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "48.6"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 174,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				},
+				{
+					"heroId": 1,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "49.0"
+	},
+	{
+		"message": [{
+			"skillAttack": {
+				"skillId": 0,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 17630,
+					"isBuff": false,
+					"damage": 169,
+					"currBlood": 12391,
+					"heroId": 87518
+				}],
+				"speedRate": "1.24"
+			},
+			"heroId": 1,
+			"commond": "attack"
+		}],
+		"time": "49.9"
+	},
+	{
+		"message": [{
+			"buffMessage": {
+				"maxBlood": 12536,
+				"buffId": 2,
+				"currBlood": 49,
+				"blood": 125
+			},
+			"heroId": 1,
+			"commond": "buff_damage"
+		}],
+		"time": "50.1"
+	},
+	{
+		"message": [{
+			"buffId": 2,
+			"heroId": 1,
+			"commond": "add_buff"
+		}],
+		"time": "50.1"
+	},
+	{
+		"message": [{
+			"commond": "attack",
+			"heroId": 87518,
+			"equipAttack": {
+				"skillId": 1002,
+				"attackMessage": [{
+					"isCrit": false,
+					"maxBlood": 12536,
+					"isBuff": false,
+					"damage": 153,
+					"currBlood": 0,
+					"heroId": 1
+				},
+				{
+					"heroId": 87518,
+					"isBuff": true
+				}],
+				"speedRate": "1.07"
+			}
+		}],
+		"time": "50.1"
+	}]
+}
